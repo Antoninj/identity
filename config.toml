@@ -1,0 +1,44 @@
+theme = "awesome-identity"
+baseURL = "https://antoninjsn.netlify.app"
+title = "Antonin Jousson- Software Engineer"
+
+languageCode = "en-US"
+
+# Content without language indicator will default to this language
+defaultContentLanguage = "en"
+# Enable to turn relative URLs into absolute
+canonifyURLs = true
+# Do not convert the url/path to lowercase
+disablePathToLower = false
+# Enable Emoji emoticons support for page content
+enableEmoji = true
+# Update the `Lastmod` parameter for each page using the last git commit date for that content file
+enableGitInfo = true
+# Enable generation of `robots.txt` file
+enableRobotsTXT = true
+
+## Profile Configurations
+[params.profile]
+  portrait = "images/profile.png"
+  firstname = "Antonin"
+  lastname = "Jousson"
+  title = "Software engineer"
+  bio = """Software engineer with 2 years of professional experience using Java, Spring frame- work, AWS and Angular. Hobbyist pythonista and open-source contributor.
+  """
+
+## Actions Configurations
+[[params.actions]]
+  name = "Review My CV"
+  url = "addlinkhere"
+
+## Contacts Configurations
+[params.contacts]
+  email = "a.jousson@gmail.com"
+  github = "Antoninj"
+  twitter = "moanajsn"
+  linkedin = "antonin-jousson-6503b495"
+
+## Footer Configurations
+[params.footer]
+  copyright = "© 2019 Byungjin Park. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  poweredBy = true
