@@ -29,7 +29,7 @@ enableRobotsTXT = true
 ## Actions Configurations
 [[params.actions]]
   name = "Review My CV"
-  url = "https://my-s3-hosted-cv.s3-eu-west-1.amazonaws.com/antonin_jousson_CV.pdf"
+  url = "https://my-s3-hosted-cv.s3-eu-west-1.amazonaws.com/antonin_jousson_cv.pdf"
 
 ## Contacts Configurations
 [params.contacts]
