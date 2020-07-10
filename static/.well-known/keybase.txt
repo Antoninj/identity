@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/antoninj
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://antoninjsn.netlify.app
+  * I am antoninj (https://keybase.io/antoninj) on keybase.
+  * I have a public key ASDEqN6EBMWNfgoPHIfisDBqiw0KZTSIO1lAqdd3YcYwAAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c4a8de8404c58d7e0a0f1c87e2b0306a8b0d0a6534883b5940a9d77761c630000a",
+      "host": "keybase.io",
+      "kid": "0120c4a8de8404c58d7e0a0f1c87e2b0306a8b0d0a6534883b5940a9d77761c630000a",
+      "uid": "65d28f3e8a717bd6cc4a269209781619",
+      "username": "antoninj"
+    },
+    "merkle_root": {
+      "ctime": 1594398270,
+      "hash": "9300b2bc9017a43015f3bd05852acfea381c80d7eff423c769ece848bf40e73a09bf39005733803eee1c826cf1a5862f8d385246f442e9bc16eebdf1c7d13487",
+      "hash_meta": "fa39843876abb5a81a8d2d1100fb470e8aeeab45206f7aa398970957e3ae36d0",
+      "seqno": 16932559
+    },
+    "service": {
+      "entropy": "MFaadmO3m9YKZ/n3aTpw9fdm",
+      "hostname": "antoninjsn.netlify.app",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1594398333,
+  "expire_in": 504576000,
+  "prev": "087bf349305474440bcff07cfb43dba93c14a213bcaacb2e1c32f79106d7582f",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxKjehATFjX4KDxyH4rAwaosNCmU0iDtZQKnXd2HGMAAKp3BheWxvYWTESpcCBsQgCHvzSTBUdEQLz/B8+0PbqTwUohO8qssuHDL3kQbXWC/EICnHKW8q2sHpMvsQyT2G/YWhEpgT0fv96Fzi/GE7121mAgHCo3NpZ8RAEQm113aZKG7ooc12Lxx7+AkM19XB+a8LZUtN6m/z674e0mY9e6uo1mj40PBU8ds5BNJRms/b/lVZr8asg2Q7B6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJ+WLSa7ahwLVSsi4HwzoK7ehIZ0T2G6cw1V6o29iXGRo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/antoninj
+
+==================================================================
