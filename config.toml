@@ -40,6 +40,7 @@ enableRobotsTXT = true
   keybase = "antoninj"
   devto = "antoninj"
   medium = "@antoninj"
+  hackerrank = "antoninj"
 
 ## Footer Configurations
 [params.footer]
