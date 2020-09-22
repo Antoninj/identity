@@ -38,7 +38,7 @@ enableRobotsTXT = true
   twitter = "moanajsn"
   linkedin = "antoninj"
   keybase = "antoninj"
-  dev.to= "antoninj"
+  devto= "antoninj"
 
 ## Footer Configurations
 [params.footer]
