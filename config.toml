@@ -39,7 +39,7 @@ enableRobotsTXT = true
   linkedin = "antoninj"
   keybase = "antoninj"
   devto = "antoninj"
-  medium = "antoninj"
+  medium = "@antoninj"
 
 ## Footer Configurations
 [params.footer]
