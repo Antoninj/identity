@@ -23,7 +23,7 @@ enableRobotsTXT = true
   firstname = "Antonin"
   lastname = "Jousson"
   title = "Software engineer"
-  bio = """Software engineer with 2 years of professional experience using Java, Spring framework, AWS and Angular. Hobbyist pythonista and open-source contributor.
+  bio = """Software engineer with 3 years of professional experience using Java, Spring framework, AWS and Angular. Hobbyist pythonista and open-source contributor.
   """
 
 ## Actions Configurations
