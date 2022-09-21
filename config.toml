@@ -1,5 +1,5 @@
 theme = "awesome-identity"
-baseURL = "https://antoninjsn.netlify.app"
+baseURL = "https://www.jousson.dev"
 title = "Antonin Jousson - Software Engineer"
 
 languageCode = "en-US"
@@ -23,7 +23,7 @@ enableRobotsTXT = true
   firstname = "Antonin"
   lastname = "Jousson"
   title = "Software engineer"
-  bio = """Software engineer with 3 years of professional experience using Java, Spring framework, AWS and Angular. Hobbyist pythonista and open-source contributor.
+  bio = """Software engineer with 4 years of professional experience. Hobbyist pythonista and open-source contributor.
   """
 
 ## Actions Configurations
@@ -33,13 +33,12 @@ enableRobotsTXT = true
 
 ## Contacts Configurations
 [params.contacts]
-  email = "a.jousson@gmail.com"
+  email = "antonin@jousson.dev"
   github = "Antoninj"
   twitter = "moanajsn"
   linkedin = "antoninj"
   keybase = "antoninj"
   devto = "antoninj"
-  medium = "@antoninj"
   hackerrank = "antoninj"
 
 ## Footer Configurations
