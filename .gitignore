@@ -5,6 +5,7 @@
 # generated files by hugo
 /public/
 /resources/_gen/
+.hugo_build.lock
 
 # executable may be added to repository
 hugo.exe
