@@ -23,7 +23,7 @@ enableRobotsTXT = true
   firstname = "Antonin"
   lastname = "Jousson"
   title = "Software engineer"
-  bio = """Software engineer with 4 years of professional experience. Hobbyist pythonista and open-source contributor.
+  bio = """Software engineer with 5 years of professional experience. Hobbyist pythonista and open-source contributor.
   """
 
 ## Actions Configurations
@@ -43,5 +43,5 @@ enableRobotsTXT = true
 
 ## Footer Configurations
 [params.footer]
-  copyright = "© 2019 Byungjin Park. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  copyright = "© 2023 Byungjin Park. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
   poweredBy = true
