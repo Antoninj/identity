@@ -7,4 +7,4 @@
 
 Provided under the terms of the CC BY-NC-SA 4.0 License.
 
-Copyright © 2019, [Byungjin Park](http://www.posquit0.com).
+Copyright © 2024, [Byungjin Park](http://www.posquit0.com).
