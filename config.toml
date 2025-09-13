@@ -23,7 +23,7 @@ enableRobotsTXT = true
   firstname = "Antonin"
   lastname = "Jousson"
   title = "Software engineer"
-  bio = """Software engineer with 6 years of professional experience. Hobbyist pythonista and open-source contributor.
+  bio = """Software engineer with 7 years of professional experience. Hobbyist pythonista and open-source contributor.
   """
 
 ## Actions Configurations
