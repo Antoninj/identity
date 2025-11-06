@@ -23,7 +23,7 @@ enableRobotsTXT = true
   firstname = "Antonin"
   lastname = "Jousson"
   title = "Software engineer"
-  bio = """# About Me
+  bio = """## About Me
 Software engineer with 7 years of professional experience. Hobbyist pythonista and open-source contributor.
 
 ## Currently reading
