@@ -23,14 +23,17 @@ enableRobotsTXT = true
   firstname = "Antonin"
   lastname = "Jousson"
   title = "Software engineer"
-  bio = """## About Me
+  bio = """
+  ## About Me
 Software engineer with 7 years of professional experience. Hobbyist pythonista and open-source contributor.
 
+
 ## Currently reading
-Add your current reading material here.
+[Designing Data-Intensive Applications](https://www.goodreads.com/en/book/show/23463279-designing-data-intensive-applications)
+
 
 ## Currently learning
-Add what you're learning here.
+Rust
   """
 
 ## Actions Configurations
