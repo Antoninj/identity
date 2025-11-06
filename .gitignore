@@ -75,6 +75,8 @@ archetypes/
 config.toml
 content/
 data/
-layouts/
 resources/
 static/images/
+
+# Local Netlify folder
+.netlify
