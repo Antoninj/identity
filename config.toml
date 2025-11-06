@@ -26,12 +26,16 @@ enableRobotsTXT = true
   bio = """
 Software engineer with 7 years of professional experience. Hobbyist pythonista and open-source contributor.
 
-## Currently reading
+# 
+
+### Currently reading
 [Designing Data-Intensive Applications](https://www.goodreads.com/en/book/show/23463279-designing-data-intensive-applications)
+# 
 [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
 
-## Currently learning
-Rust
+# 
+### Currently learning
+[Rust](https://rust-lang.org/)
   """
 
 ## Actions Configurations
